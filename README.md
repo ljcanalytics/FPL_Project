@@ -13,4 +13,8 @@ I built this tool for the below reasons
 
 ## Report Preview
 
-![PowerBIReport](https://app.powerbi.com/view?r=eyJrIjoiNWViMDY2N2YtZTIyOC00YjhmLWEzOWMtNDZmNmM1NDNmMmVkIiwidCI6ImYxOTdmMGRkLTUyMDQtNDg2My1iZjEzLTk0MzE2M2ViMWU1NSJ9)
+![PowerBIReport](https://github.com/user-attachments/assets/d35e8856-1c84-4053-bec5-3756b50092b6)
+
+
+
+
