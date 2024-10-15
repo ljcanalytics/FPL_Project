@@ -5,6 +5,8 @@
 ![Excel](https://img.shields.io/badge/Excel-brightgreen)
 ![GW Refresh](https://img.shields.io/badge/Latest%20GW%20Refresh-7-brightgreen)
 
+[![Share](https://img.shields.io/badge/share-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/submit?title=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/Abblix/Oidc.Server)
+
 ## Table of Contents
   - [About](#about)
   - [Report Preview](#report-preview)
