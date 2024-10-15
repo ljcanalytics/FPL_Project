@@ -9,7 +9,7 @@
 [![LinkedInShare](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/ljcanalytics/FPL_Project)
 
 ## Table of Contents
-  - [About](#about)
+  - [About](#📜-about)
   - [Report Preview](#report-preview)
   - [Contacts](#contacts)
   
