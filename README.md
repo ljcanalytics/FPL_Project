@@ -13,7 +13,7 @@ I built this tool for the below reasons
 
 ## Report Preview
 
-![Summary Preview]https://github.com/user-attachments/assets/d35e8856-1c84-4053-bec5-3756b50092b6
+(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ4Y2QxcjcxaG92bDA4b3VkMG4weHI5Z2kxaGEwMW4ya256Y3F1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TX0mWbIdt0lzsLwre/giphy.gif)
 
 
 
