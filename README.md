@@ -6,7 +6,7 @@
 ![GW Refresh](https://img.shields.io/badge/Latest%20GW%20Refresh-7-brightgreen)
 
 [![RedditShare](https://img.shields.io/badge/share-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/submit?title=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/Abblix/Oidc.Server)
-[![LinkedInShare](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Abblix/Oidc.Server)
+[![LinkedInShare](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://app.powerbi.com/view?r=eyJrIjoiNWViMDY2N2YtZTIyOC00YjhmLWEzOWMtNDZmNmM1NDNmMmVkIiwidCI6ImYxOTdmMGRkLTUyMDQtNDg2My1iZjEzLTk0MzE2M2ViMWU1NSJ9)
 
 ## Table of Contents
   - [About](#about)
