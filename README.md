@@ -24,13 +24,19 @@ I built this tool for the below reasons
 
 ### Summary Page
 
+Top Level overview of the current Premier League table. Includes expected goals data from [Understat](https://understat.com/league/EPL). Identify which are the best performing teams based on league ranking & can compare actuals against expected data to evaluate a teams performance. 
+
 https://github.com/user-attachments/assets/952206ad-1165-4962-9228-d73c5dd1b75d
 
 ### Fixture Targeting
 
+Use various different measures to identify the strength of a teams future fixtures in a GW. The user can draw their own conclusions from the data and target specific teams based on a variable number of gameweeks. 
+
 https://github.com/user-attachments/assets/77523dcd-bde3-4739-a979-eb19ff039171
 
 ### Player Performance
+
+This data is provided by [vaastav](https://github.com/vaastav/Fantasy-Premier-League/tree/master) Once you have identified teams you want to target you can use this page to determine which players are within budget and are the best performing based on goals, assists, expected goals etc.    
 
 https://github.com/user-attachments/assets/d254657c-792e-4518-bcbf-5fd96eaa8df3
 
