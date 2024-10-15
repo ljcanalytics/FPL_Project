@@ -3,6 +3,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-d9b300)
 ![Excel](https://img.shields.io/badge/Excel-brightgreen)
+![GW Refresh](https://img.shields.io/badge/Latest%20GW%20Refresh-7-brightgreen)
 
 This is a Power BI report designed to provide users data from various sources to make strategic decisions to maximise points in the Fantasy Premier League game.
 
