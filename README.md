@@ -30,5 +30,9 @@ https://github.com/user-attachments/assets/952206ad-1165-4962-9228-d73c5dd1b75d
 
 https://github.com/user-attachments/assets/77523dcd-bde3-4739-a979-eb19ff039171
 
+### Player Performance
+
+https://github.com/user-attachments/assets/d254657c-792e-4518-bcbf-5fd96eaa8df3
+
 ## Contacts
 
