@@ -20,7 +20,7 @@ This is a Power BI report designed to provide users data from various sources to
 
 I built this tool for the below reasons
   1. Easy to refresh report that, in my opinion, provides unique data point that are not provided on by the Fantasy Premier League website.
-  2. Showcase my Power BI report building & my ETL skills in one acessable area
+  2. Showcase my Power BI report building & my ETL skills in one accessible area
 
 ## Report Preview
 
