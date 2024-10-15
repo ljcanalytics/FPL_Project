@@ -9,11 +9,11 @@
 [![LinkedInShare](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/ljcanalytics/FPL_Project)
 
 ## Table of Contents
-  - [About](#📜-about)
+  - [About](#about)
   - [Report Preview](#report-preview)
   - [Contacts](#contacts)
   
-## 📜 About
+## About
 This is a Power BI report designed to provide users data from various sources to make strategic decisions to maximise points in the Fantasy Premier League game.
 
 I built this tool for the below reasons
