@@ -13,7 +13,7 @@ I built this tool for the below reasons
 
 ## Report Preview
 
-![Power BI](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ4Y2QxcjcxaG92bDA4b3VkMG4weHI5Z2kxaGEwMW4ya256Y3F1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TX0mWbIdt0lzsLwre/giphy.gif)
+https://github.com/user-attachments/assets/952206ad-1165-4962-9228-d73c5dd1b75d
 
 
 
