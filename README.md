@@ -13,6 +13,8 @@ I built this tool for the below reasons
 
 ## Report Preview
 
+### Summary Page
+
 https://github.com/user-attachments/assets/952206ad-1165-4962-9228-d73c5dd1b75d
 
 
