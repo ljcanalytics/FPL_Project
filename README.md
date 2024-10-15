@@ -5,15 +5,17 @@
 ![Excel](https://img.shields.io/badge/Excel-brightgreen)
 ![GW Refresh](https://img.shields.io/badge/Latest%20GW%20Refresh-7-brightgreen)
 
+## Table of Contents
+  - [About](#about)
+  - [Report Preview](#report-preview)
+  - [Contacts](#contacts)
+  
+## About
 This is a Power BI report designed to provide users data from various sources to make strategic decisions to maximise points in the Fantasy Premier League game.
 
 I built this tool for the below reasons
   1. Easy to refresh report that, in my opinion, provides unique data point that are not provided on by the Fantasy Premier League website.
   2. Showcase my Power BI report building & my ETL skills in one acessable area
-
-## Table of Contents
-  - [Report Preview](#report-preview)
-  - [Contacts](#contacts)
 
 ## Report Preview
 
