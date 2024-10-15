@@ -13,7 +13,7 @@ I built this tool for the below reasons
 
 ## Table of Contents
   - [Report Preview](#-report-preview)
-  - 
+  - [Contacts](#-contacts)
 
 ## Report Preview
 
@@ -25,6 +25,5 @@ https://github.com/user-attachments/assets/952206ad-1165-4962-9228-d73c5dd1b75d
 
 https://github.com/user-attachments/assets/77523dcd-bde3-4739-a979-eb19ff039171
 
-
-
+## Contacts
 
