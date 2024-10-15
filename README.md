@@ -1,9 +1,7 @@
-# Badges 
 
-https://img.shields.io/badge/Power%20BI-d9b300
+# Fantasy Premier League Report Project
 
-
-# Project Title
+![Power BI](https://img.shields.io/badge/Power%20BI-d9b300)
 
 Simple overview of use/purpose.
 
