@@ -12,8 +12,8 @@ I built this tool for the below reasons
   2. Showcase my Power BI report building & my ETL skills in one acessable area
 
 ## Table of Contents
-  - [Report Preview](##-report-preview)
-  - [Contacts](##-contacts)
+  - [Report Preview](##report-preview)
+  - [Contacts](##contacts)
 
 ## Report Preview
 
