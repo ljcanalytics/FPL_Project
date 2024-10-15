@@ -9,10 +9,8 @@ I built this tool for the below reasons
   1. Easy to refresh report that, in my opinion, provides unique data point that are not provided on by the Fantasy Premier League website.
   2. Showcase my Power BI report building & my ETL skills in one acessable area
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
 ## Table of Contects
+
+## Report Preview
 
 https://app.powerbi.com/view?r=eyJrIjoiNWViMDY2N2YtZTIyOC00YjhmLWEzOWMtNDZmNmM1NDNmMmVkIiwidCI6ImYxOTdmMGRkLTUyMDQtNDg2My1iZjEzLTk0MzE2M2ViMWU1NSJ9
