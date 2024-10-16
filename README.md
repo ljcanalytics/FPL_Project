@@ -17,11 +17,11 @@
   - [Contacts](#contacts)
   
 ## 📜 About
-This is a Power BI report designed to provide users data from various sources to make strategic decisions to maximise points in the Fantasy Premier League game.
+This is a Power BI report designed to provide users with data from various sources to make strategic decisions to maximise points in the Fantasy Premier League game.
+I built this tool for the following reasons.
 
-I built this tool for the below reasons
-  1. Easy to refresh report that, in my opinion, provides unique data point that are not provided on by the Fantasy Premier League website.
-  2. Showcase my Power BI report building & my ETL skills in one accessible area
+1. Easy to refresh report that, in my opinion, provides unique data points that are not provided by the Fantasy Premier League website.
+2. Showcase my Power BI report building & my ETL skills in one accessible area.
 
 ## Datasets
 
@@ -36,9 +36,9 @@ I built this tool for the below reasons
 
 ### Summary Page
 
-Top Level overview of the current Premier League table. Includes expected goals data from [Understat](https://understat.com/league/EPL). Identify which are the best performing teams based on league ranking & can compare actuals against expected data to evaluate a teams performance. 
+Top-level overview of the current Premier League table. Includes expected goals data from[Understat](https://understat.com/league/EPL). Identify which are the best-performing teams based on league ranking & can compare actuals against expected data to evaluate a team's performance.
 
-The ranking is based on the below script, this uses a hierarchy of based on points, goal difference then goals scored. I.e if points are the same, goal difference is used to determine rank.   
+The ranking is based on the below script, which uses a hierarchy based on points, goal difference then goals scored. I.e if points are the same, goal difference is used to determine rank.  
 
 ```dax
 League Rank = 
@@ -61,17 +61,17 @@ https://github.com/user-attachments/assets/952206ad-1165-4962-9228-d73c5dd1b75d
 
 ### Fixture Targeting
 
-Use various different measures to identify the strength of a teams future fixtures in a GW. The user can draw their own conclusions from the data and target specific teams based on a variable number of gameweeks. 
+Use various different measures to identify the strength of a team's future fixtures in a GW. The user can draw their own conclusions from the data and target specific teams based on a variable number of gameweeks.
 
 https://github.com/user-attachments/assets/77523dcd-bde3-4739-a979-eb19ff039171
 
 ### Player Performance
 
-This data is provided by [vaastav](https://github.com/vaastav/Fantasy-Premier-League/tree/master) Once you have identified teams you want to target you can use this page to determine which players are within budget and are the best performing based on goals, assists, expected goals etc.    
+This data is provided by [vaastav](https://github.com/vaastav/Fantasy-Premier-League/tree/master) Once you have identified the teams you want to target, you can use this page to determine which players are within budget and are the best performers based on goals, assists, expected goals, etc.    
 
 https://github.com/user-attachments/assets/d254657c-792e-4518-bcbf-5fd96eaa8df3
 
 ## Contacts
 
-If you have any questions or feedback regardin the report. Please contact me using the below
+If you have any questions or feedback regarding the report. Don't hesitate to get in touch with me using the below.
 - Email:ljcanalytics@protonmail.com
