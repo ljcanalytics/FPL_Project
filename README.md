@@ -29,13 +29,19 @@ I built this tool for the below reasons
 
 ### Summary Page
 
-Top Level overview of the current Premier League table. Includes expected goals data from [Understat](https://understat.com/league/EPL). Identify which are the best performing teams based on league ranking & can compare actuals against expected data to evaluate a teams performance. 
+Top Level overview of the current Premier League table. Includes expected goals data from [Understat](https://understat.com/league/EPL). Identify which are the best performing teams based on league ranking & can compare actuals against expected data to evaluate a teams performance. The ranking is based on points accumulated.
 
 https://github.com/user-attachments/assets/952206ad-1165-4962-9228-d73c5dd1b75d
 
 ### Fixture Targeting
 
 Use various different measures to identify the strength of a teams future fixtures in a GW. The user can draw their own conclusions from the data and target specific teams based on a variable number of gameweeks. 
+
+```shell
+Test
+
+
+```
 
 https://github.com/user-attachments/assets/77523dcd-bde3-4739-a979-eb19ff039171
 
