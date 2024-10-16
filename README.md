@@ -25,23 +25,43 @@ I built this tool for the below reasons
 
 ## Datasets
 
+|Dataset|Source|
+|:-|:-|
+|Fixtures|Fantasy Premier League API|
+|Merged_Gw_24_25|Web link (Github)|
+|Understat|Manual Excel Sheet|
+|Team Badges|Manual Excel SHeet with links to web|
+
 ## Report Preview
 
 ### Summary Page
 
-Top Level overview of the current Premier League table. Includes expected goals data from [Understat](https://understat.com/league/EPL). Identify which are the best performing teams based on league ranking & can compare actuals against expected data to evaluate a teams performance. The ranking is based on points accumulated.
+Top Level overview of the current Premier League table. Includes expected goals data from [Understat](https://understat.com/league/EPL). Identify which are the best performing teams based on league ranking & can compare actuals against expected data to evaluate a teams performance. 
+
+The ranking is based on the below script, this uses a hierarchy of based on points, goal difference then goals scored. I.e if points are the same, goal difference is used to determine rank.   
+
+```dax
+League Rank = 
+RANKX(ALL(Premier_League_table),
+    RANKX(ALL(Premier_League_table), 
+        RANKX (ALL(Premier_League_table), Premier_League_table[Points])
+            + DIVIDE( 
+                RANKX(ALL(Premier_League_table), Premier_League_table[Goal Difference]), 
+                (COUNTROWS(ALL(Premier_League_table)) + 1)
+            )
+    , , ASC) +
+    + DIVIDE( 
+            RANKX(ALL(Premier_League_table), Premier_League_table[Goals Scored], , DESC), 
+            (COUNTROWS(ALL(Premier_League_table)) + 1)
+    )
+, , ASC)
+```
 
 https://github.com/user-attachments/assets/952206ad-1165-4962-9228-d73c5dd1b75d
 
 ### Fixture Targeting
 
 Use various different measures to identify the strength of a teams future fixtures in a GW. The user can draw their own conclusions from the data and target specific teams based on a variable number of gameweeks. 
-
-```shell
-Test
-
-
-```
 
 https://github.com/user-attachments/assets/77523dcd-bde3-4739-a979-eb19ff039171
 
