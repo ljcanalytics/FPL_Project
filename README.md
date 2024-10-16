@@ -36,7 +36,7 @@ I built this tool for the following reasons.
 
 ### Summary Page
 
-Top-level overview of the current Premier League table. Includes expected goals data from[Understat](https://understat.com/league/EPL). Identify which are the best-performing teams based on league ranking & can compare actuals against expected data to evaluate a team's performance.
+Top-level overview of the current Premier League table. Includes expected goals data from [Understat](https://understat.com/league/EPL). Identify which are the best-performing teams based on league ranking & can compare actuals against expected data to evaluate a team's performance.
 
 The ranking is based on the below script, which uses a hierarchy based on points, goal difference then goals scored. I.e if points are the same, goal difference is used to determine rank.  
 
