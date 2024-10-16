@@ -75,4 +75,4 @@ https://github.com/user-attachments/assets/d254657c-792e-4518-bcbf-5fd96eaa8df3
 
 If you have any questions or feedback regardin the report. Please contact me using the below
 - Email:ljcanalytics@protonmail.com
-- [LinkedIn](www.linkedin.com/in/lewis-caddick)
+- [LinkedIn](www.linkedin.com/lewis-caddick)
